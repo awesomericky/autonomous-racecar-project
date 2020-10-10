@@ -9,7 +9,7 @@ Contents:
 3) Wall following by PID control (optimum wall(right/left) is chosen based on lidar data)
   - pathplanning_ver2.0.py
   - pathplanning_ver2.1.py
-4) Information-Theoretic Model Predictive Control
+4) Information-Theoretic Model Predictive Control (without GPU parallel computing)
   - ITMPC.py
   - IT_MPC_reference_data.py (data collecting code to train racecar neural net model)
   
