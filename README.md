@@ -13,3 +13,10 @@ Contents:
   - ITMPC.py
   - IT_MPC_reference_data.py (data collecting code to train racecar neural net model)
   
+
+Reference:
+1) 'Information Theoretic Model Predictive Control: Theory and Applications to Autonomous Driving'
+https://arxiv.org/abs/1707.02342
+2) MIT racecar simulator
+https://github.com/mit-racecar/racecar_simulator
+  
