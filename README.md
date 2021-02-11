@@ -17,25 +17,23 @@
 ## Result
 1) Safety node
 <div>
-  <img width=500 src='video/safety-node.gif'>
+  <img width=400 src='video/safety-node.gif'>
+  <br/>
 </div>
-
 
 2) Wall following
 <div>
-  <img width=500 src='video/wall-follower.gif'>
+  <img width=400 src='video/wall-follower.gif'>
 </div>
-
 
 3) Information-Theoretic Model Predictive Control (very simple version)
 <div>
-  <img width=500 src='video/itmpc.gif'>
+  <img width=400 src='video/itmpc.gif'>
 </div>
-
 
 4) RCcar demo
 <div>
-  <img width=500 src='video/rccar_demo.gif'>
+  <img width=400 src='video/rccar_demo.gif'>
 </div>
 
 ## Reference
