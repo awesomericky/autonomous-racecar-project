@@ -16,25 +16,24 @@
 
 ## Result
 1) Safety node
-<div>
+<p align='center'>
   <img width=400 src='video/safety-node.gif'>
-  <br/>
-</div>
+</p>
 
 2) Wall following
-<div>
+<p align='center'>
   <img width=400 src='video/wall-follower.gif'>
-</div>
+</p>
 
 3) Information-Theoretic Model Predictive Control (very simple version)
-<div>
+<p align='center'>
   <img width=400 src='video/itmpc.gif'>
-</div>
+</p>
 
 4) RCcar demo
-<div>
+<p align='center'>
   <img width=400 src='video/rccar_demo.gif'>
-</div>
+</p>
 
 ## Reference
 1) 'Information Theoretic Model Predictive Control: Theory and Applications to Autonomous Driving'
