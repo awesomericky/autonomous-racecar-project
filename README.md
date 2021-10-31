@@ -30,7 +30,7 @@
   <img width=400 src='video/itmpc.gif'>
 </p>
 
-4) RCcar demo
+4) RCcar demo (Manually controlled)
 <p align='center'>
   <img width=400 src='video/rccar_demo.gif'>
 </p>
